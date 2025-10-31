@@ -1,4 +1,4 @@
-package com.danilo.bffagendador.infrastructure.client.security;
+package com.danilo.bffagendador.infrastructure.security;
 
 import io.swagger.v3.oas.annotations.enums.SecuritySchemeType;
 import io.swagger.v3.oas.annotations.security.SecurityScheme;

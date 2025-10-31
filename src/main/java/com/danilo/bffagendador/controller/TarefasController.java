@@ -5,7 +5,7 @@ import com.danilo.bffagendador.business.TarefasService;
 import com.danilo.bffagendador.business.dto.in.TarefasDTORequest;
 import com.danilo.bffagendador.business.dto.out.TarefasDTOResponse;
 import com.danilo.bffagendador.business.enums.StatusNotificacaoEnum;
-import com.danilo.bffagendador.infrastructure.client.security.SecurityConfig;
+import com.danilo.bffagendador.infrastructure.security.SecurityConfig;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.security.SecurityRequirement;
